@@ -1,0 +1,213 @@
+F:\BellevueCollege\DEV420\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+F:\BellevueCollege\DEV420\Hospital Management System\bin\Debug\Hospital Management System.exe
+F:\BellevueCollege\DEV420\Hospital Management System\bin\Debug\Hospital Management System.pdb
+F:\BellevueCollege\DEV420\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+F:\BellevueCollege\DEV420\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources
+F:\BellevueCollege\DEV420\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+F:\BellevueCollege\DEV420\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+F:\BellevueCollege\DEV420\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+F:\BellevueCollege\DEV420\Hospital Management System\obj\Debug\Hospital Management System.exe
+F:\BellevueCollege\DEV420\Hospital Management System\obj\Debug\Hospital Management System.pdb
+F:\BellevueCollege\DEV420\Final Project\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+F:\BellevueCollege\DEV420\Final Project\Hospital Management System\bin\Debug\Hospital Management System.exe
+F:\BellevueCollege\DEV420\Final Project\Hospital Management System\bin\Debug\Hospital Management System.pdb
+F:\BellevueCollege\DEV420\Final Project\Hospital Management System\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+F:\BellevueCollege\DEV420\Final Project\Hospital Management System\obj\Debug\Hospital_Management_System.Hospital_Management_System.resources
+F:\BellevueCollege\DEV420\Final Project\Hospital Management System\obj\Debug\Hospital_Management_System.Login.resources
+F:\BellevueCollege\DEV420\Final Project\Hospital Management System\obj\Debug\Hospital_Management_System.Patient_Management.resources
+F:\BellevueCollege\DEV420\Final Project\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+F:\BellevueCollege\DEV420\Final Project\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+F:\BellevueCollege\DEV420\Final Project\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+F:\BellevueCollege\DEV420\Final Project\Hospital Management System\obj\Debug\Hospital Management System.exe
+F:\BellevueCollege\DEV420\Final Project\Hospital Management System\obj\Debug\Hospital Management System.pdb
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Hospital Management System.exe.config
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Hospital Management System.exe
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Hospital Management System.pdb
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital_Management_System.Appointment.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital_Management_System.Hospital_Management_System.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital_Management_System.Login.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital_Management_System.Patient_Management.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital Management System.exe
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital Management System.pdb
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\mongocrypt.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\AWSSDK.Core.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\AWSSDK.SecurityToken.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\DnsClient.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Microsoft.Win32.Registry.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\MongoDB.Bson.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\MongoDB.Driver.Core.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\MongoDB.Driver.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\SharpCompress.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Snappier.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Buffers.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Memory.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Security.AccessControl.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\ZstdSharp.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\AWSSDK.Core.pdb
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\AWSSDK.Core.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\AWSSDK.SecurityToken.pdb
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\AWSSDK.SecurityToken.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\DnsClient.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Microsoft.Win32.Registry.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\MongoDB.Bson.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\MongoDB.Driver.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\MongoDB.Driver.Core.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Snappier.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Buffers.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Memory.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Security.AccessControl.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital Management System.csproj.CopyComplete
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital_Management_System.Registration.resources
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\mongocrypt.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Hospital Management System.exe.config
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Hospital Management System.exe
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Hospital Management System.pdb
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\AWSSDK.Core.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\DnsClient.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Bson.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Driver.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\SharpCompress.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Snappier.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Buffers.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Memory.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Security.AccessControl.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\ZstdSharp.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\AWSSDK.Core.pdb
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\AWSSDK.Core.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\DnsClient.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Bson.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Driver.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Snappier.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Buffers.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Memory.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Security.AccessControl.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Appointment.resources
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Hospital_Management_System.resources
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Login.resources
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Patient_Management.resources
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Registration.resources
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital.78AF1D08.Up2Date
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.exe
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.pdb
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.InventoryForm.resources
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Data_Analytics.resources
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\dude\Desktop\Project\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Newtonsoft.Json.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\mongocrypt.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Hospital Management System.exe.config
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Hospital Management System.exe
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Hospital Management System.pdb
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\AWSSDK.Core.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\AWSSDK.SecurityToken.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\DnsClient.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.Win32.Registry.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Bson.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Driver.Core.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Driver.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Newtonsoft.Json.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\SharpCompress.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Snappier.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Buffers.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Memory.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Numerics.Vectors.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Security.AccessControl.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Security.Principal.Windows.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\ZstdSharp.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\AWSSDK.Core.pdb
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\AWSSDK.Core.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\AWSSDK.SecurityToken.pdb
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\AWSSDK.SecurityToken.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\DnsClient.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Microsoft.Win32.Registry.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Bson.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Driver.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\MongoDB.Driver.Core.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Newtonsoft.Json.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\Snappier.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Buffers.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Memory.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Numerics.Vectors.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Security.AccessControl.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Security.Principal.Windows.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.csproj.AssemblyReference.cache
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Appointment.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Data_Analytics.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Hospital_Management_System.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.InventoryForm.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Login.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Patient_Management.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital_Management_System.Registration.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.csproj.CopyComplete
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.exe
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.pdb

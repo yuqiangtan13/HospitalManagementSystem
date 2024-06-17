@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|c:\\users\\dude\\desktop\\project\\hospitalmanagementsystem-develop-yuqiang\\hospital management system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:hospital management system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\data analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:data analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|c:\\users\\dude\\desktop\\project\\hospitalmanagementsystem-develop-yuqiang\\data analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:data analytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\hospital management system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:hospital management system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\loginstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:loginstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\registration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:registration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\patient management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:patient management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\patient management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F29001-E22F-4EB0-8042-49FF1D1E2815}|Hospital Management System.csproj|solutionrelative:patient management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data Analytics.cs",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Data Analytics.cs",
+              "RelativeDocumentMoniker": "Data Analytics.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Data Analytics.cs",
+              "RelativeToolTip": "Data Analytics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:46:36.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Registration.cs",
+              "RelativeDocumentMoniker": "Registration.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Registration.cs [Design]",
+              "RelativeToolTip": "Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hospital Management System.cs",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Hospital Management System.cs",
+              "RelativeDocumentMoniker": "Hospital Management System.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Hospital Management System.cs",
+              "RelativeToolTip": "Hospital Management System.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointments.cs",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Appointments.cs",
+              "RelativeDocumentMoniker": "Appointments.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Appointments.cs",
+              "RelativeToolTip": "Appointments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Registration.cs",
+              "RelativeDocumentMoniker": "Registration.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Registration.cs",
+              "RelativeToolTip": "Registration.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\InventoryForm.cs",
+              "RelativeDocumentMoniker": "InventoryForm.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\InventoryForm.cs [Design]",
+              "RelativeToolTip": "InventoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:55:03.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\InventoryForm.cs",
+              "RelativeDocumentMoniker": "InventoryForm.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\InventoryForm.cs",
+              "RelativeToolTip": "InventoryForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:55:08.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Registration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Registration.Designer.cs",
+              "RelativeDocumentMoniker": "Registration.Designer.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Registration.Designer.cs",
+              "RelativeToolTip": "Registration.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Appointment.cs",
+              "RelativeDocumentMoniker": "Appointment.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Appointment.cs",
+              "RelativeToolTip": "Appointment.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Appointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Appointment.cs",
+              "RelativeDocumentMoniker": "Appointment.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Appointment.cs [Design]",
+              "RelativeToolTip": "Appointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Patients.cs",
+              "RelativeDocumentMoniker": "Patients.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Patients.cs",
+              "RelativeToolTip": "Patients.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginState.cs",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\LoginState.cs",
+              "RelativeDocumentMoniker": "LoginState.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\LoginState.cs",
+              "RelativeToolTip": "LoginState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hospital Management System.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Hospital Management System.cs",
+              "RelativeDocumentMoniker": "Hospital Management System.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Hospital Management System.cs [Design]",
+              "RelativeToolTip": "Hospital Management System.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Patient Management.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Patient Management.cs",
+              "RelativeDocumentMoniker": "Patient Management.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Patient Management.cs [Design]",
+              "RelativeToolTip": "Patient Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Patient Management.cs",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Patient Management.cs",
+              "RelativeDocumentMoniker": "Patient Management.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Patient Management.cs",
+              "RelativeToolTip": "Patient Management.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:48.819Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data Analytics.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Data Analytics.cs",
+              "RelativeDocumentMoniker": "Data Analytics.cs",
+              "ToolTip": "C:\\Users\\dude\\Desktop\\Project\\HospitalManagementSystem-Develop-Yuqiang\\Data Analytics.cs [Design]",
+              "RelativeToolTip": "Data Analytics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:46:34.323Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
