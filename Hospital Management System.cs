@@ -34,9 +34,19 @@ namespace Hospital_Management_System
 
         private void button_AppointmentScheduling_Click(object sender, EventArgs e)
         {
-            Appointment AppointmentForm = new Appointment();
-            AppointmentForm.Show();
-            this.Hide();
+            
+            if(LoginState.IsPatient == true)
+            {
+                Appointment AppointmentForm = new Appointment();
+                AppointmentForm.Show();
+                this.Hide();
+               
+            }
+            else
+            {
+                MessageBox.Show("You don't have access to this form");
+            }
+            
         }
 
         private void button_Logout_Click(object sender, EventArgs e)

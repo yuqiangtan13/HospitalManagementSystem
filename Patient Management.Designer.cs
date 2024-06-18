@@ -36,13 +36,12 @@
             this.button_BackToMainForm = new System.Windows.Forms.Button();
             this.label_Name = new System.Windows.Forms.Label();
             this.label_MedicalHistory = new System.Windows.Forms.Label();
-            this.label_PatientId = new System.Windows.Forms.Label();
-            this.textBox_PatientId = new System.Windows.Forms.TextBox();
             this.label_Age = new System.Windows.Forms.Label();
             this.textBox_Age = new System.Windows.Forms.TextBox();
             this.listBox_MedicalHistory = new System.Windows.Forms.ListBox();
             this.textBox_MedicalHistory = new System.Windows.Forms.TextBox();
             this.button_AddMedication = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView_PatientData)).BeginInit();
             this.SuspendLayout();
             // 
@@ -57,14 +56,14 @@
             // 
             // textBox_Name
             // 
-            this.textBox_Name.Location = new System.Drawing.Point(648, 87);
+            this.textBox_Name.Location = new System.Drawing.Point(655, 39);
             this.textBox_Name.Name = "textBox_Name";
             this.textBox_Name.Size = new System.Drawing.Size(169, 20);
             this.textBox_Name.TabIndex = 1;
             // 
             // button_Add
             // 
-            this.button_Add.Location = new System.Drawing.Point(646, 332);
+            this.button_Add.Location = new System.Drawing.Point(653, 284);
             this.button_Add.Name = "button_Add";
             this.button_Add.Size = new System.Drawing.Size(169, 23);
             this.button_Add.TabIndex = 3;
@@ -74,7 +73,7 @@
             // 
             // button_Delete
             // 
-            this.button_Delete.Location = new System.Drawing.Point(646, 425);
+            this.button_Delete.Location = new System.Drawing.Point(653, 377);
             this.button_Delete.Name = "button_Delete";
             this.button_Delete.Size = new System.Drawing.Size(169, 23);
             this.button_Delete.TabIndex = 4;
@@ -84,7 +83,7 @@
             // 
             // button_Update
             // 
-            this.button_Update.Location = new System.Drawing.Point(646, 377);
+            this.button_Update.Location = new System.Drawing.Point(653, 329);
             this.button_Update.Name = "button_Update";
             this.button_Update.Size = new System.Drawing.Size(169, 23);
             this.button_Update.TabIndex = 5;
@@ -94,7 +93,7 @@
             // 
             // button_BackToMainForm
             // 
-            this.button_BackToMainForm.Location = new System.Drawing.Point(646, 476);
+            this.button_BackToMainForm.Location = new System.Drawing.Point(653, 428);
             this.button_BackToMainForm.Name = "button_BackToMainForm";
             this.button_BackToMainForm.Size = new System.Drawing.Size(169, 23);
             this.button_BackToMainForm.TabIndex = 6;
@@ -105,7 +104,7 @@
             // label_Name
             // 
             this.label_Name.AutoSize = true;
-            this.label_Name.Location = new System.Drawing.Point(590, 94);
+            this.label_Name.Location = new System.Drawing.Point(597, 46);
             this.label_Name.Name = "label_Name";
             this.label_Name.Size = new System.Drawing.Size(35, 13);
             this.label_Name.TabIndex = 7;
@@ -114,32 +113,16 @@
             // label_MedicalHistory
             // 
             this.label_MedicalHistory.AutoSize = true;
-            this.label_MedicalHistory.Location = new System.Drawing.Point(546, 181);
+            this.label_MedicalHistory.Location = new System.Drawing.Point(553, 133);
             this.label_MedicalHistory.Name = "label_MedicalHistory";
             this.label_MedicalHistory.Size = new System.Drawing.Size(79, 13);
             this.label_MedicalHistory.TabIndex = 8;
             this.label_MedicalHistory.Text = "Medical History";
             // 
-            // label_PatientId
-            // 
-            this.label_PatientId.AutoSize = true;
-            this.label_PatientId.Location = new System.Drawing.Point(576, 42);
-            this.label_PatientId.Name = "label_PatientId";
-            this.label_PatientId.Size = new System.Drawing.Size(49, 13);
-            this.label_PatientId.TabIndex = 9;
-            this.label_PatientId.Text = "PatientId";
-            // 
-            // textBox_PatientId
-            // 
-            this.textBox_PatientId.Location = new System.Drawing.Point(648, 39);
-            this.textBox_PatientId.Name = "textBox_PatientId";
-            this.textBox_PatientId.Size = new System.Drawing.Size(169, 20);
-            this.textBox_PatientId.TabIndex = 10;
-            // 
             // label_Age
             // 
             this.label_Age.AutoSize = true;
-            this.label_Age.Location = new System.Drawing.Point(599, 134);
+            this.label_Age.Location = new System.Drawing.Point(606, 86);
             this.label_Age.Name = "label_Age";
             this.label_Age.Size = new System.Drawing.Size(26, 13);
             this.label_Age.TabIndex = 11;
@@ -147,7 +130,7 @@
             // 
             // textBox_Age
             // 
-            this.textBox_Age.Location = new System.Drawing.Point(648, 134);
+            this.textBox_Age.Location = new System.Drawing.Point(655, 86);
             this.textBox_Age.Name = "textBox_Age";
             this.textBox_Age.Size = new System.Drawing.Size(169, 20);
             this.textBox_Age.TabIndex = 12;
@@ -155,21 +138,21 @@
             // listBox_MedicalHistory
             // 
             this.listBox_MedicalHistory.FormattingEnabled = true;
-            this.listBox_MedicalHistory.Location = new System.Drawing.Point(646, 256);
+            this.listBox_MedicalHistory.Location = new System.Drawing.Point(653, 208);
             this.listBox_MedicalHistory.Name = "listBox_MedicalHistory";
             this.listBox_MedicalHistory.Size = new System.Drawing.Size(168, 56);
             this.listBox_MedicalHistory.TabIndex = 13;
             // 
             // textBox_MedicalHistory
             // 
-            this.textBox_MedicalHistory.Location = new System.Drawing.Point(646, 181);
+            this.textBox_MedicalHistory.Location = new System.Drawing.Point(653, 133);
             this.textBox_MedicalHistory.Name = "textBox_MedicalHistory";
             this.textBox_MedicalHistory.Size = new System.Drawing.Size(169, 20);
             this.textBox_MedicalHistory.TabIndex = 14;
             // 
             // button_AddMedication
             // 
-            this.button_AddMedication.Location = new System.Drawing.Point(645, 217);
+            this.button_AddMedication.Location = new System.Drawing.Point(652, 169);
             this.button_AddMedication.Name = "button_AddMedication";
             this.button_AddMedication.Size = new System.Drawing.Size(169, 23);
             this.button_AddMedication.TabIndex = 15;
@@ -177,18 +160,25 @@
             this.button_AddMedication.UseVisualStyleBackColor = true;
             this.button_AddMedication.Click += new System.EventHandler(this.button_AddMedication_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(553, 339);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(0, 13);
+            this.label1.TabIndex = 16;
+            // 
             // Patient_Management
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(847, 512);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.button_AddMedication);
             this.Controls.Add(this.textBox_MedicalHistory);
             this.Controls.Add(this.listBox_MedicalHistory);
             this.Controls.Add(this.textBox_Age);
             this.Controls.Add(this.label_Age);
-            this.Controls.Add(this.textBox_PatientId);
-            this.Controls.Add(this.label_PatientId);
             this.Controls.Add(this.label_MedicalHistory);
             this.Controls.Add(this.label_Name);
             this.Controls.Add(this.button_BackToMainForm);
@@ -215,12 +205,11 @@
         private System.Windows.Forms.Button button_BackToMainForm;
         private System.Windows.Forms.Label label_Name;
         private System.Windows.Forms.Label label_MedicalHistory;
-        private System.Windows.Forms.Label label_PatientId;
-        private System.Windows.Forms.TextBox textBox_PatientId;
         private System.Windows.Forms.Label label_Age;
         private System.Windows.Forms.TextBox textBox_Age;
         private System.Windows.Forms.ListBox listBox_MedicalHistory;
         private System.Windows.Forms.TextBox textBox_MedicalHistory;
         private System.Windows.Forms.Button button_AddMedication;
+        private System.Windows.Forms.Label label1;
     }
 }

@@ -95,9 +95,10 @@ namespace Hospital_Management_System
             var medicalHistory = listBox_MedicalHistory.Items.Cast<string>().ToList();
 
             var filterDefinition = Builders<Patients>.Filter.Eq("Name", textBox_Name.Text);
+            var patient = PatientsCollection.Find(filterDefinition).FirstOrDefault();
             var updateDefinition = Builders<Patients>.Update
                 .Set("Name", textBox_Name.Text)
-                .Set("PatientId", Int32.Parse(textBox_PatientId.Text))
+                .Set("PatientId", patient.PatientId)
                 .Set("Age", Int32.Parse(textBox_Age.Text))
                 .Set("MedicalHistory",medicalHistory);
 

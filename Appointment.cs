@@ -16,7 +16,7 @@ namespace Hospital_Management_System
     public partial class Appointment : Form
     {
         IMongoCollection<Appointments> appointmentsCollection;
-
+        IMongoCollection<Patients> patientCollection;
         
         public Appointment()
         {
@@ -26,6 +26,7 @@ namespace Hospital_Management_System
             var mongoClient = new MongoClient(connectionString);
             var database = mongoClient.GetDatabase(databaseName);
             appointmentsCollection = database.GetCollection<Appointments>("Appointments");
+            patientCollection = database.GetCollection<Patients>("Patients");
             LoadAppointmentData();
         }
 
@@ -61,6 +62,26 @@ namespace Hospital_Management_System
 
                 appointmentsCollection.InsertOne(appointment);
                 MessageBox.Show("Appointment made successfully!");
+
+                if (PatientState.GetLoggedInPatientId == null)
+                {
+                    throw new Exception("PatientId is null. Ensure GetLoggedInPatientId is returning a valid ID.");
+                }
+
+                if (PatientState.GetLoggedInPatientName == null)
+                {
+                    throw new Exception("PatientName is null. Ensure GetLoggedInPatientName is returning a valid name.");
+                }
+                var history = new List<string> { "None" };
+                var patient = new Patients
+                {
+                    PatientId = PatientState.GetLoggedInPatientId,
+                    Name = PatientState.GetLoggedInPatientName,
+                    Age = 0,
+                    MedicalHistory = history
+                };
+                patientCollection.InsertOne(patient);
+                
 
                 
                 LoadAppointmentData();
