@@ -41,11 +41,11 @@
             // 
             this.label_Username.AutoSize = true;
             this.label_Username.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_Username.Location = new System.Drawing.Point(78, 62);
+            this.label_Username.Location = new System.Drawing.Point(109, 64);
             this.label_Username.Name = "label_Username";
-            this.label_Username.Size = new System.Drawing.Size(90, 18);
+            this.label_Username.Size = new System.Drawing.Size(57, 18);
             this.label_Username.TabIndex = 0;
-            this.label_Username.Text = "Username:";
+            this.label_Username.Text = "Name:";
             // 
             // label_Password
             // 

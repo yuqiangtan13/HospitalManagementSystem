@@ -15,6 +15,8 @@ namespace Hospital_Management_System
     public partial class Login : Form
     {
         IMongoCollection<Users> userCollection;
+       
+        
         public Login()
         {
             InitializeComponent();
@@ -51,6 +53,10 @@ namespace Hospital_Management_System
                 if (user.Role == "Patient")
                 {
                     LoginState.IsPatient = true;
+                    PatientState.GetLoggedInPatientId = user.UserId;
+                    PatientState.GetLoggedInPatientName = user.Username;
+                   
+
                     MessageBox.Show("Patient Login");
                 }
                 //send them to main form

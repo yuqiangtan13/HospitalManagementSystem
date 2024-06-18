@@ -59,7 +59,7 @@
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(571, 122);
+            this.dateTimePicker1.Location = new System.Drawing.Point(571, 129);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(171, 20);
             this.dateTimePicker1.TabIndex = 2;
@@ -82,6 +82,7 @@
             this.button_CancelAppointment.TabIndex = 4;
             this.button_CancelAppointment.Text = "Cancel Appointment";
             this.button_CancelAppointment.UseVisualStyleBackColor = true;
+            this.button_CancelAppointment.Click += new System.EventHandler(this.button_CancelAppointment_Click);
             // 
             // button_BackToMain
             // 
@@ -114,7 +115,7 @@
             // label_Doctor
             // 
             this.label_Doctor.AutoSize = true;
-            this.label_Doctor.Location = new System.Drawing.Point(498, 182);
+            this.label_Doctor.Location = new System.Drawing.Point(498, 99);
             this.label_Doctor.Name = "label_Doctor";
             this.label_Doctor.Size = new System.Drawing.Size(39, 13);
             this.label_Doctor.TabIndex = 8;
@@ -126,7 +127,7 @@
             this.comboBox_Doctor.Items.AddRange(new object[] {
             "Dr. John",
             "Dr. Jane"});
-            this.comboBox_Doctor.Location = new System.Drawing.Point(571, 179);
+            this.comboBox_Doctor.Location = new System.Drawing.Point(571, 91);
             this.comboBox_Doctor.Name = "comboBox_Doctor";
             this.comboBox_Doctor.Size = new System.Drawing.Size(171, 21);
             this.comboBox_Doctor.TabIndex = 9;

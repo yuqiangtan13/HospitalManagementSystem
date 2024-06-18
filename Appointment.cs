@@ -16,6 +16,8 @@ namespace Hospital_Management_System
     public partial class Appointment : Form
     {
         IMongoCollection<Appointments> appointmentsCollection;
+
+        
         public Appointment()
         {
             InitializeComponent();
@@ -44,12 +46,57 @@ namespace Hospital_Management_System
 
         private void button_AddAppointment_Click(object sender, EventArgs e)
         {
+           
+            var filter = Builders<Appointments>.Filter.Eq("PatientId", PatientState.GetLoggedInPatientId);
+            var existAppointment = appointmentsCollection.Find(filter).FirstOrDefault();
+            if(existAppointment == null)
+            {
+                var appointment = new Appointments
+                {
+                    PatientId = PatientState.GetLoggedInPatientId,
+                    Doctor = comboBox_Doctor.Text,
+                    Date = dateTimePicker1.Value,
+                    Status = "Scheduled"
+                };
+
+                appointmentsCollection.InsertOne(appointment);
+                MessageBox.Show("Appointment made successfully!");
+
+                
+                LoadAppointmentData();
+
+
+            }
+            else
+            {
+                MessageBox.Show("Appointment exist");
+            }
+            
+
 
         }
 
         private void Appointment_Load(object sender, EventArgs e)
         {
+            textBox_Name.Text = PatientState.GetLoggedInPatientName;
+        }
 
+        private void button_CancelAppointment_Click(object sender, EventArgs e)
+        {
+            var filter = Builders<Appointments>.Filter.Eq("PatientId", PatientState.GetLoggedInPatientId);
+            var existAppointment = appointmentsCollection.Find(filter).FirstOrDefault();
+            if(existAppointment != null)
+            {
+                appointmentsCollection.DeleteOne(filter);
+                MessageBox.Show("Appointed Cancel!");
+                LoadAppointmentData();
+            }
+            else
+            {
+                MessageBox.Show("You don't have appointment");
+            }
+
+            
         }
     }
 }

@@ -211,3 +211,10 @@ F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang
 F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.csproj.CopyComplete
 F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.exe
 F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem-Develop-Yuqiang-Brandon\HospitalManagementSystem-Develop-Yuqiang\obj\Debug\Hospital Management System.pdb
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Newtonsoft.Json.dll
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\bin\Debug\Newtonsoft.Json.xml
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital_Management_System.Data_Analytics.resources
+F:\BellevueCollege\DEV420\Final Project\HospitalManagementSystem\obj\Debug\Hospital_Management_System.InventoryForm.resources

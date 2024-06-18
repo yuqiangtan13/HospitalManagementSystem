@@ -19,8 +19,8 @@ namespace Hospital_Management_System
         public int AppointmentId { get; set; }
 
         // PatientId
-        [BsonElement("PatientId"), BsonRepresentation(MongoDB.Bson.BsonType.Int32)]
-        public int PatientId { get; set; }
+        [BsonElement("PatientId"), BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
+        public string PatientId { get; set; }
 
         //Doctor
         [BsonElement("Doctor"), BsonRepresentation(MongoDB.Bson.BsonType.String)]

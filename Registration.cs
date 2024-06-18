@@ -53,6 +53,9 @@ namespace Hospital_Management_System
                     //4.add it to the database
                     userCollection.InsertOne(user);
                     MessageBox.Show("Registration Successful!");
+                    
+
+
                     //send them to main form
                     Login loginForm = new Login();
                     loginForm.Show();

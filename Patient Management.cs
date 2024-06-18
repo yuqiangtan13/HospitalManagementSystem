@@ -56,7 +56,7 @@ namespace Hospital_Management_System
             var patients = new Patients
             {
                 Name = textBox_Name.Text,
-                PatientId = Int32.Parse(textBox_PatientId.Text),
+                PatientId = LoginState.GetLoggedInUserId,
                 Age = Int32.Parse(textBox_Age.Text),
                 MedicalHistory = medicalHistory
             };

@@ -7,6 +7,27 @@ using System.Threading.Tasks;
 
 namespace Hospital_Management_System
 {
+    public static class PatientState
+    {
+       
+
+        private static string loggedInPatientId = string.Empty;
+        private static string loggedInPatientName = string.Empty;
+       
+        public static string GetLoggedInPatientId
+        {
+            get { return loggedInPatientId; }
+            set { loggedInPatientId = value; }
+        }
+
+        public static string GetLoggedInPatientName
+        {
+            get { return loggedInPatientName; }
+            set { loggedInPatientName = value; }
+        }
+    }
+
+
     [Serializable]
     public class Patients
     {
@@ -15,8 +36,8 @@ namespace Hospital_Management_System
         public string Id { get; set; }
 
         // PatientId
-        [BsonElement("PatientId"), BsonRepresentation(MongoDB.Bson.BsonType.Int32)]
-        public int PatientId { get; set; }
+        [BsonElement("PatientId"), BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
+        public string PatientId { get; set; }
 
         // Name
         [BsonElement("Name"), BsonRepresentation(MongoDB.Bson.BsonType.String)]

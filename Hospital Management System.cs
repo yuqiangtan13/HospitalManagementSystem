@@ -43,6 +43,9 @@ namespace Hospital_Management_System
         {
             LoginState.IsLoggedIn = false;
             LoginState.IsPatient = false;
+            LoginState.GetLoggedInUserId = string.Empty;
+            PatientState.GetLoggedInPatientId = string.Empty;
+            PatientState.GetLoggedInPatientName = string.Empty;
             
             
             MessageBox.Show("Logout Sucessful!");
